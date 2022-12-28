@@ -1,4 +1,4 @@
-namespace WebApplication1;
+namespace Mimima.Web.Api;
 
 public class WeatherForecast
 {

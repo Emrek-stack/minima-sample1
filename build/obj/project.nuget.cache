@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cFrzwddyKFZdDoaHpIj6K0h7zr1JdpUD6hlB9JADpYQGxVa07Ofid+3jZD3GtV5QzAZOVd/gKI01IoSIXneSWg==",
+  "dgSpecHash": "6H3OjEUMchAKqW1C1aQuHNAOZqx29Cmmz//NvE1375BMG6hGuSA3LDU2x15HLiW1Xl92WeI4u/DuU8JpStAkIw==",
   "success": true,
-  "projectFilePath": "/Users/emre/Projects/presentation/nesine-presentation/minima-sample/build/_build.csproj",
+  "projectFilePath": "/Users/emre/Projects/presentation/minima-sample1/build/_build.csproj",
   "expectedPackageFiles": [
     "/Users/emre/.nuget/packages/glob/1.1.8/glob.1.1.8.nupkg.sha512",
     "/Users/emre/.nuget/packages/jetbrains.annotations/2022.1.0/jetbrains.annotations.2022.1.0.nupkg.sha512",

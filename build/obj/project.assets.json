@@ -7729,11 +7729,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/emre/Projects/presentation/nesine-presentation/minima-sample/build/_build.csproj",
+      "projectUniqueName": "/Users/emre/Projects/presentation/minima-sample1/build/_build.csproj",
       "projectName": "_build",
-      "projectPath": "/Users/emre/Projects/presentation/nesine-presentation/minima-sample/build/_build.csproj",
+      "projectPath": "/Users/emre/Projects/presentation/minima-sample1/build/_build.csproj",
       "packagesPath": "/Users/emre/.nuget/packages/",
-      "outputPath": "/Users/emre/Projects/presentation/nesine-presentation/minima-sample/build/obj/",
+      "outputPath": "/Users/emre/Projects/presentation/minima-sample1/build/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/emre/.nuget/NuGet/NuGet.Config"

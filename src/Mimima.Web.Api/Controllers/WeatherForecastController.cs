@@ -1,6 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
 
-namespace WebApplication1.Controllers;
+namespace Mimima.Web.Api.Controllers;
 
 [ApiController]
 [Route("[controller]")]
